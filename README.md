@@ -1,2 +1,6 @@
 # dotfiles
-Dotfiles
+
+Dotfiles that I use.
+
+* .vimrc
+* .bashrc
