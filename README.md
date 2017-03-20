@@ -7,14 +7,11 @@ Dotfiles that I use.
 
 ## Install
 
-```bash
 cd ~
-git clone https://github.com/mzec/dotfiles.git dotfiles
-cd dotfiles
-./install.sh
-```
+git clone https://github.com/mzec/dotfiles.git
 
 ## To do
 
-* OSX bashrc
+* ~~OSX bashrc~~
 * byobu
+* proper install script

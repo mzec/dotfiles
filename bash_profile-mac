@@ -1,0 +1,7 @@
+[ -r ~/.bashrc ] && source ~/.bashrc
+
+# export LC_ALL=hr_HR.UTF-8
+# export LANG=hr_HR.UTF-8
+
+# added by Anaconda3 4.3.0 installer
+export PATH="/Users/mate/anaconda/bin:$PATH"

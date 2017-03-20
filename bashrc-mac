@@ -1,0 +1,4 @@
+alias ls='ls -G'
+alias ll='ls -Gl'
+alias lla='ls -Gal'
+[ -r /Users/mate/.byobu/prompt ] && . /Users/mate/.byobu/prompt   #byobu-prompt#
