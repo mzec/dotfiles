@@ -22,6 +22,9 @@ Plugin 'altercation/vim-colors-solarized'
 Plugin 'tomasr/molokai'
 Plugin 'jaromero/vim-monokai-refined'
 
+Bundle 'mattn/webapi-vim'
+Bundle 'mattn/gist-vim'
+
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
 filetype plugin indent on    " required
@@ -39,7 +42,6 @@ filetype plugin indent on    " required
 
 imap <C-K> <Plug>delimitMateS-Tab
 if has("gui_running")
-	set guioptions-=m "remove menu bar
 	set guioptions-=T  "remove toolbar
 	set guioptions-=r  "remove right-hand scroll bar
 	set guioptions-=L  "remove left-hand scroll bar
